@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    pad: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+header{
+    display: flex;
+}
+
